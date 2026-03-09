@@ -3,3 +3,6 @@
 ucsc-cse-144-winter-2026-final-project
 
 .venv
+.venv/
+*.pt
+*.zip
